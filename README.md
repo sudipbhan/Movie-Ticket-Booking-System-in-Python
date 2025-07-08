@@ -1,19 +1,11 @@
 # 🎬 Movie Ticket Booking System
 
 <p align="center">
-  <img src="screenshot/main_menu.png" alt="Main Menu" width="600"><br>
-  <span style="display:inline-block; margin-bottom:16px;"><b>Main Menu</b></span>
-  <br>
-  <img src="screenshot/browse_movies.png" alt="Browse Movies" width="600"><br>
-  <span style="display:inline-block; margin-bottom:16px;"><b>Browse Movies</b></span>
-  <br>
-  <img src="screenshot/seat_map.png" alt="Seat Map" width="600"><br>
-  <span style="display:inline-block; margin-bottom:16px;"><b>Seat Map</b></span>
-  <br>
-  <img src="screenshot/seat_map.png" alt="Booking" width="600"><br>
-  <span style="display:inline-block; margin-bottom:16px;"><b>Booking</b></span>
+  <img src="https://img.shields.io/badge/Python-3.7%2B-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License">
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20MacOS-lightgrey" alt="Platform">
+  <img src="https://img.shields.io/badge/CLI-Application-orange" alt="CLI">
 </p>
-
 
 A feature-rich Movie Ticket Booking System written in Python, supporting both user and admin functionalities. This project is designed for the command-line and is ideal for learning, demos, or as a base for further development.
 
@@ -53,9 +45,12 @@ A feature-rich Movie Ticket Booking System written in Python, supporting both us
   <br>
   <img src="screenshot/seat_map.png" alt="Seat Map" width="600"><br>
   <span style="display:inline-block; margin-bottom:16px;"><b>Seat Map</b></span>
+  <br>
+  <img src="screenshot/seat_map.png" alt="Booking" width="600"><br>
+  <span style="display:inline-block; margin-bottom:16px;"><b>Booking</b></span>
 </p>
 
-
+> _Add your own screenshots in the `screenshots/` folder for best results._
 
 ## How to Run
 
@@ -92,4 +87,3 @@ This project is licensed under the MIT License.
 ---
 
 **Enjoy booking your movie tickets!** 🍿
-
