@@ -37,11 +37,11 @@ A feature-rich Movie Ticket Booking System written in Python, supporting both us
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/main_menu.png" alt="Main Menu" width="600">
+  <img src="screenshot/main_menu.png" alt="Main Menu" width="600">
   <br>
-  <img src="screenshots/browse_movies.png" alt="Browse Movies" width="600">
+  <img src="screenshot/browse_movies.png" alt="Browse Movies" width="600">
   <br>
-  <img src="screenshots/seat_map.png" alt="Seat Map" width="600">
+  <img src="screenshot/seat_map.png" alt="Seat Map" width="600">
 </p>
 
 > _Add your own screenshots in the `screenshots/` folder for best results._
