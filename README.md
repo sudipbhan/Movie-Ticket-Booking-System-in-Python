@@ -46,7 +46,7 @@ A feature-rich Movie Ticket Booking System written in Python, supporting both us
   <img src="screenshot/seat_map.png" alt="Seat Map" width="600"><br>
   <span style="display:inline-block; margin-bottom:16px;"><b>Seat Map</b></span>
   <br>
-  <img src="screenshot/seat_map.png" alt="Booking" width="600"><br>
+  <img src="screenshot/Booking.png" alt="Booking" width="600"><br>
   <span style="display:inline-block; margin-bottom:16px;"><b>Booking</b></span>
 </p>
 
