@@ -1,0 +1,389 @@
+{
+  "movies": [
+    {
+      "movie_id": "movie_001",
+      "title": "Avengers: Endgame",
+      "genre": "Action/Adventure",
+      "duration": 181,
+      "rating": "PG-13",
+      "description": "The Avengers assemble once more to reverse Thanos' actions.",
+      "price": 15.0,
+      "showtimes": [
+        {
+          "showtime_id": "show_movie_001_0_0",
+          "movie_id": "movie_001",
+          "date": "2025-07-07",
+          "time": "10:00",
+          "theater": "Theater A",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_001_0_1",
+          "movie_id": "movie_001",
+          "date": "2025-07-07",
+          "time": "13:30",
+          "theater": "Theater B",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_001_0_2",
+          "movie_id": "movie_001",
+          "date": "2025-07-07",
+          "time": "16:00",
+          "theater": "Theater C",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_001_1_0",
+          "movie_id": "movie_001",
+          "date": "2025-07-08",
+          "time": "10:00",
+          "theater": "Theater A",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_001_1_1",
+          "movie_id": "movie_001",
+          "date": "2025-07-08",
+          "time": "13:30",
+          "theater": "Theater B",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_001_1_2",
+          "movie_id": "movie_001",
+          "date": "2025-07-08",
+          "time": "16:00",
+          "theater": "Theater C",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_001_2_0",
+          "movie_id": "movie_001",
+          "date": "2025-07-09",
+          "time": "10:00",
+          "theater": "Theater A",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_001_2_1",
+          "movie_id": "movie_001",
+          "date": "2025-07-09",
+          "time": "13:30",
+          "theater": "Theater B",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_001_2_2",
+          "movie_id": "movie_001",
+          "date": "2025-07-09",
+          "time": "16:00",
+          "theater": "Theater C",
+          "total_seats": 50,
+          "booked_seats": []
+        }
+      ]
+    },
+    {
+      "movie_id": "movie_002",
+      "title": "The Dark Knight",
+      "genre": "Action/Crime",
+      "duration": 152,
+      "rating": "PG-13",
+      "description": "Batman faces the Joker in this epic crime thriller.",
+      "price": 12.5,
+      "showtimes": [
+        {
+          "showtime_id": "show_movie_002_0_0",
+          "movie_id": "movie_002",
+          "date": "2025-07-07",
+          "time": "10:00",
+          "theater": "Theater A",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_002_0_1",
+          "movie_id": "movie_002",
+          "date": "2025-07-07",
+          "time": "13:30",
+          "theater": "Theater B",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_002_0_2",
+          "movie_id": "movie_002",
+          "date": "2025-07-07",
+          "time": "16:00",
+          "theater": "Theater C",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_002_1_0",
+          "movie_id": "movie_002",
+          "date": "2025-07-08",
+          "time": "10:00",
+          "theater": "Theater A",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_002_1_1",
+          "movie_id": "movie_002",
+          "date": "2025-07-08",
+          "time": "13:30",
+          "theater": "Theater B",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_002_1_2",
+          "movie_id": "movie_002",
+          "date": "2025-07-08",
+          "time": "16:00",
+          "theater": "Theater C",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_002_2_0",
+          "movie_id": "movie_002",
+          "date": "2025-07-09",
+          "time": "10:00",
+          "theater": "Theater A",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_002_2_1",
+          "movie_id": "movie_002",
+          "date": "2025-07-09",
+          "time": "13:30",
+          "theater": "Theater B",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_002_2_2",
+          "movie_id": "movie_002",
+          "date": "2025-07-09",
+          "time": "16:00",
+          "theater": "Theater C",
+          "total_seats": 50,
+          "booked_seats": []
+        }
+      ]
+    },
+    {
+      "movie_id": "movie_003",
+      "title": "Inception",
+      "genre": "Sci-Fi/Thriller",
+      "duration": 148,
+      "rating": "PG-13",
+      "description": "A thief who steals secrets through dream-sharing technology.",
+      "price": 13.0,
+      "showtimes": [
+        {
+          "showtime_id": "show_movie_003_0_0",
+          "movie_id": "movie_003",
+          "date": "2025-07-07",
+          "time": "10:00",
+          "theater": "Theater A",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_003_0_1",
+          "movie_id": "movie_003",
+          "date": "2025-07-07",
+          "time": "13:30",
+          "theater": "Theater B",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_003_0_2",
+          "movie_id": "movie_003",
+          "date": "2025-07-07",
+          "time": "16:00",
+          "theater": "Theater C",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_003_1_0",
+          "movie_id": "movie_003",
+          "date": "2025-07-08",
+          "time": "10:00",
+          "theater": "Theater A",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_003_1_1",
+          "movie_id": "movie_003",
+          "date": "2025-07-08",
+          "time": "13:30",
+          "theater": "Theater B",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_003_1_2",
+          "movie_id": "movie_003",
+          "date": "2025-07-08",
+          "time": "16:00",
+          "theater": "Theater C",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_003_2_0",
+          "movie_id": "movie_003",
+          "date": "2025-07-09",
+          "time": "10:00",
+          "theater": "Theater A",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_003_2_1",
+          "movie_id": "movie_003",
+          "date": "2025-07-09",
+          "time": "13:30",
+          "theater": "Theater B",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_003_2_2",
+          "movie_id": "movie_003",
+          "date": "2025-07-09",
+          "time": "16:00",
+          "theater": "Theater C",
+          "total_seats": 50,
+          "booked_seats": []
+        }
+      ]
+    },
+    {
+      "movie_id": "movie_004",
+      "title": "Parasite",
+      "genre": "Thriller/Drama",
+      "duration": 132,
+      "rating": "R",
+      "description": "A poor family schemes to become employed by a wealthy family.",
+      "price": 11.5,
+      "showtimes": [
+        {
+          "showtime_id": "show_movie_004_0_0",
+          "movie_id": "movie_004",
+          "date": "2025-07-07",
+          "time": "10:00",
+          "theater": "Theater A",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_004_0_1",
+          "movie_id": "movie_004",
+          "date": "2025-07-07",
+          "time": "13:30",
+          "theater": "Theater B",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_004_0_2",
+          "movie_id": "movie_004",
+          "date": "2025-07-07",
+          "time": "16:00",
+          "theater": "Theater C",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_004_1_0",
+          "movie_id": "movie_004",
+          "date": "2025-07-08",
+          "time": "10:00",
+          "theater": "Theater A",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_004_1_1",
+          "movie_id": "movie_004",
+          "date": "2025-07-08",
+          "time": "13:30",
+          "theater": "Theater B",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_004_1_2",
+          "movie_id": "movie_004",
+          "date": "2025-07-08",
+          "time": "16:00",
+          "theater": "Theater C",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_004_2_0",
+          "movie_id": "movie_004",
+          "date": "2025-07-09",
+          "time": "10:00",
+          "theater": "Theater A",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_004_2_1",
+          "movie_id": "movie_004",
+          "date": "2025-07-09",
+          "time": "13:30",
+          "theater": "Theater B",
+          "total_seats": 50,
+          "booked_seats": []
+        },
+        {
+          "showtime_id": "show_movie_004_2_2",
+          "movie_id": "movie_004",
+          "date": "2025-07-09",
+          "time": "16:00",
+          "theater": "Theater C",
+          "total_seats": 50,
+          "booked_seats": []
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "user_id": "admin_001",
+      "username": "admin",
+      "email": "admin@cinema.com",
+      "is_admin": true,
+      "bookings": []
+    },
+    {
+      "user_id": "user_001",
+      "username": "SUDIP",
+      "email": "sudip@email.com",
+      "is_admin": false,
+      "bookings": []
+    }
+  ],
+  "bookings": []
+}
