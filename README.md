@@ -50,7 +50,7 @@ A feature-rich Movie Ticket Booking System written in Python, supporting both us
   <span style="display:inline-block; margin-bottom:16px;"><b>Booking</b></span>
 </p>
 
-> _Add your own screenshots in the `screenshots/` folder for best results._
+
 
 ## How to Run
 
